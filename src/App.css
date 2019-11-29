@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+h1{
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+}
+.mt-30{
+  margin-top: 20px;
+}
+.mg-30{
+  margin-left: -14px;
+}
+.mg-15{
+  margin-left: 15px;
+}
+.wer{
+  margin-left: 45%;
+}
+.wer:hover{
+  color:red;
+  cursor: pointer;
+}
+.left-50{
+  margin-left: 100px;
+}
+.left-50:hover{
+  cursor: pointer;
+  color: red;
+}
+.badge:hover{
+  cursor: pointer;
+}
+.sort_selected{
+  font-weight: bold;
+  
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
